@@ -1,0 +1,34 @@
+{
+  "token": "",
+  "prefix": "",
+  "activity": "",
+  "status": "",
+  "rickroll": "",
+  "mongooseConnectionString": "",
+  "everyoneMention": "true",
+  "disable_fetching": false,
+  "error_logs": "", 
+  "success_logs": "",
+    "fail": "<:no:957144549698986015>",
+    "success": "<a:yes:962966293764505620>",
+    "ban": "<:fun:992383624462729246>",
+  "COMMENT": "Only enable hostingweb if you are using replit!",
+   "hostingweb": false,
+  
+  "developers": ["",""],
+
+  "color": {
+    "main"   : "#74ff89",
+    "error"  : "#ff5f8e",
+    "success": "#99ff9c",
+
+    "red"   : "#ff5a48",
+    "orange": "#ffca4d",
+    "yellow": "#ffcc5c",
+    "green" : "#74ff89",
+    "purple": "#7d5eff",
+    "pink"  : "#ff88d2",
+    "grey"  : "#4b4b4b",
+    "white" : "#ffffff"
+  }
+}
